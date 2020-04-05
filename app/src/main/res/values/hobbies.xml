@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="hobbies">
+        <item>Honesty</item>
+        <item>Good natured</item>
+        <item>Free spirited</item>
+        <item>Dishonesty</item>
+        <item>Rigidity</item>
+        <item>Sleeping</item>
+        <item>Eating</item>
+        <item>Drinking lots of water</item>
+        <item>well-mannered</item>
+        <item>free minded</item>
+    </string-array>
+</resources>
